@@ -1,0 +1,6 @@
+{
+  "name": "SENTINEL-X",
+  "description": "Statewide Intelligent CCTV Integration & Investigation Platform connecting multi-department CCTV/VMS infrastructure for GIS intelligence, vehicle tracking, explainable alerts, and investigation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
